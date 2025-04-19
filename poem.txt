@@ -1,0 +1,14 @@
+Roses are red,
+Violets are blue,
+Python is great,
+And so are you.
+This is the first line.
+This is the second line.
+This is the third line.
+The Sun is bright,
+The sky is blue,
+The world is beautiful,
+And so are you.
+This is the first line.
+This is the second line.
+This is the third line.
